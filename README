@@ -1,0 +1,22 @@
+## About
+- This TA is written for use within Splunk 9.x
+- It is intended to be used with Synology SoHo products. e.g. DS923, DS923
+- See Vendor: [Synology](https://www.synology.com/en-us/products/DS923+)
+- I publish this as an individual within the cyber security community, it is not an official release from the vendor.
+
+## Splunkbase:
+- Due for listing as of 2024-04-xx
+- https://splunkbase.splunk.com/app/xxxx
+
+## Setup
+- This is the 'TA' which should be installed on your UF, HF, IDX and SH
+- props.conf, is the key useful file that has the Great8 applied. 
+
+### Sourcetype:
+- This app uses the following sourcetype, you may wish to adapt, just ensure to be consistent.
+[synology:nas:syslog]
+
+
+## Git:
+- See [Github](https://github.com/jameswintermute/TA_Synology-NAS)
+- feedback to 'jameswintermute 0x40 protonmail.ch' OR Mastodon: jameswintermute@infosec.exchange
