@@ -16,7 +16,6 @@
 - This app uses the following sourcetype, you may wish to adapt, just ensure to be consistent.
 [synology:nas:syslog]
 
-
 ## Git:
 - See [Github](https://github.com/jameswintermute/TA_Synology-NAS)
 - feedback to 'jameswintermute 0x40 protonmail.ch' OR Mastodon: jameswintermute@infosec.exchange
