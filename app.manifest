@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "Synology NAS TA",
+    "id": {
+      "group": null,
+      "name": "TA_Synology-NAS",
+      "version": "1.0.0-beta"
+    },
+    "author": [
+      {
+        "name": "James Wintermute",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "TA Synology NAS (community app)",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": null,
+  "tasks": null,
+  "inputGroups": null,
+  "incompatibleApps": null,
+  "platformRequirements": null,
+  "supportedDeployments": [
+    "_standalone",
+    "_distributed"
+  ],
+  "targetWorkloads": [
+    "_forwarders" 
+    "_search_heads"
+  }
+}
