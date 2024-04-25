@@ -5,7 +5,7 @@
     "id": {
       "group": null,
       "name": "TA_Synology-NAS",
-      "version": "1.0.0-beta"
+      "version": "1.0.1"
     },
     "author": [
       {
@@ -48,7 +48,7 @@
     "_distributed"
   ],
   "targetWorkloads": [
-    "_forwarders" 
+    "_forwarders",
     "_search_heads"
-  }
+  ]
 }
